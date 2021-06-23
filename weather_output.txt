@@ -1,0 +1,21 @@
+-------------------------------------------------------------
+Weather Stats for - RANCHI  || 23 Jun 2021 | 01:22:16 PM 
+-------------------------------------------------------------
+Current temperature is: 26.06 deg C 
+Current weather desc  :haze 
+Current Humidity      :94 % 
+Current wind speed    :1.54 kmph 
+-------------------------------------------------------------
+Weather Stats for - JAIPUR  || 23 Jun 2021 | 01:23:14 PM 
+-------------------------------------------------------------
+Current temperature is: 36.62 deg C 
+Current weather desc  :haze 
+Current Humidity      :34 % 
+Current wind speed    :4.12 kmph 
+-------------------------------------------------------------
+Weather Stats for - JHUNJHUNU  || 23 Jun 2021 | 01:24:13 PM 
+-------------------------------------------------------------
+Current temperature is: 40.55 deg C 
+Current weather desc  :clear sky 
+Current Humidity      :14 % 
+Current wind speed    :4.84 kmph 
